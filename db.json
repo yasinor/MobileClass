@@ -9,7 +9,5 @@
     {"name": "electroinic", "credit":4, "teacherID":3, "active":false},
     {"name": "digital logic", "credit":3, "teacherID":2, "active":true},
     {"name": "mobile programming", "credit":2, "teacherID":1, "active":true}    
-    ],
-  "department":"computer engineering",
-  "teacherAges":[30,32,40,57,63,26,45]
+    ]
 }
