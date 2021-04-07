@@ -7,7 +7,7 @@
   ],
   "courses":[
     {"name": "computer programming", "credit":3, "teacherID":1, "active":true},
-    {"name": "electroinic", "credit":4, "teacherID":3, "active":false},
+    {"name": "electronic", "credit":4, "teacherID":3, "active":false},
     {"name": "digital logic", "credit":3, "teacherID":2, "active":true},
     {"name": "mobile programming", "credit":2, "teacherID":1, "active":true}    
     ],
