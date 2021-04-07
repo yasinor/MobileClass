@@ -2,7 +2,7 @@
   "teachers":[
     {"id":1, "name":"yasin ortakci", "salary": 6515.25},
     {"id":2, "name":"emrullah sonuc", "salary": 7415.15},
-    {"id":3, "name":"mehmet akbaba", "salary": 10000.25},
+    {"id":3, "name":"mehmet akbaba", "salary": 10000.25}
   ],
   "courses":[
     {"name": "computer programming", "credit":3, "teacherID":1, "active":true},
