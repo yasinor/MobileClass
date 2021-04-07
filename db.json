@@ -1,31 +1,16 @@
 
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
+ {
+  "teachers":[
+    {"id":1, "name":"yasin ortakci", "salary": 6515.25},
+    {"id":2, "name":"emrullah sonuc", "salary": 7415.15},
+    {"id":3, "name":"mehmet akbaba", "salary": 10000.25}
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "courses":[
+    {"name": "computer programming", "credit":3, "teacherID":1, "active":true},
+    {"name": "electroinic", "credit":4, "teacherID":3, "active":false},
+    {"name": "digital logic", "credit":3, "teacherID":2, "active":true},
+    {"name": "mobile programming", "credit":2, "teacherID":1, "active":true}    
+    ],
+  "department":"computer engineering",
+  "teacherAges":[30,32,40,57,63,26,45]
 }
